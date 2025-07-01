@@ -49,7 +49,7 @@
 
 ### A. Milestones and Issues
 ![Milestones and Issues](screenshots/milestones-issues.png)  
-📸 *Caption: Screenshot showing milestone(s) like “Landing Page” and linked issues.*
+📸 *Caption: Screenshot showing milestone(s) like “Contact Section” and linked issues.*
 
 ---
 
